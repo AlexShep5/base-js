@@ -1,0 +1,26 @@
+
+.prodCard, .cartItem {
+    border-collapse: collapse;
+    margin-top: 16px;
+    border: 1px solid;
+    border-color: darkcyan;
+    background-color: burlywood;
+    padding: 8px;
+}
+
+.cartItem {
+    background-color: aquamarine;
+}
+
+.prodBtn, .cartBtn {
+    margin-top: 16px;
+}
+
+.cart {
+    margin-top: 24px;
+}
+
+.cartTotal {
+    margin-top: 16px;
+    padding-left: 16px;
+}
