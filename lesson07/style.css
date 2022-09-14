@@ -1,0 +1,63 @@
+
+.prodCard, .cartItem {
+    border-collapse: collapse;
+    margin-top: 16px;
+    border: 1px solid;
+    border-color: darkcyan;
+    background-color: burlywood;
+    padding: 8px;
+}
+
+.cartItem {
+    background-color: aquamarine;
+}
+
+.prodBtn, .delBtn {
+    margin-top: 16px;
+}
+
+.clearGoodsBtn {
+    width: 100px;
+}
+
+.cart {
+    margin-top: 24px;
+}
+
+.cartTotal {
+    margin-top: 16px;
+    padding-left: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navBar {
+    margin-top: 16px;
+}
+
+.navNextBtn {
+    margin-left: 8px;
+}
+
+.addressWrap {
+    margin-top: 16px;
+}
+
+.adressItem {
+    margin-top: 8px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.addressInput {
+    width: 50%;
+}
+
+.commentItem {
+    margin-top: 16px;
+}
+
+.hidden {
+    display: none;
+}
